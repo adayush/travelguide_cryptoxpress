@@ -40,7 +40,7 @@ export function Datacontent({ data, id }) {
         }
       {data.posttext && data.posttext.map((t, i) => <p key={i}>{t}</p>)}
     </Card>
-    <Image src='/divider.png' height={10} preview={false} />
+    <Image src='/divider.png' alt='divider' height={10} preview={false} />
   </div>
 }
 
@@ -91,7 +91,7 @@ export default function Placelayout({ placeData }) {
             <li>Entry Formalities</li>
             <li>Geography</li>
             <li>Flora & Fauna</li>
-            <li>Tourists Do's & Dont's</li>
+            <li>Tourists Do&apos;s & Dont&apos;s</li>
             <li>How Safe is Andaman?</li>
           </ul>
           <h2>Popular Places to Visit</h2>

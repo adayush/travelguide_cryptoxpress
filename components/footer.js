@@ -5,9 +5,9 @@ export default function Footer() {
   return <footer className={`container ${styles.footer}`}>
       <div className={styles.grid}>
         <div>
-          <Image src="/logo.svg" width={150} preview={false} />
-          <p>We're a small crew of locals and Andaman-lovers helping you make the most of your trip to the Andamans.</p>
-          <p>You can build your holiday from the ground-up, exactly how you like. We've personally verified each experience, so you know that they're tried, tested and true!</p>
+          <Image src="/logo.svg" alt="logo" width={150} preview={false} />
+          <p>We&apos;re a small crew of locals and Andaman-lovers helping you make the most of your trip to the Andamans.</p>
+          <p>You can build your holiday from the ground-up, exactly how you like. We&apos;ve personally verified each experience, so you know that they&apos;re tried, tested and true!</p>
           <p>Find Out How</p>
         </div>
         <div>
@@ -31,7 +31,7 @@ export default function Footer() {
           </ul>
         </div>
         <div>
-          <Image src="/startupindia.svg" preview={false} />
+          <Image src="/startupindia.svg" alt="startup india" preview={false} />
         </div>
       </div>
       <Divider />

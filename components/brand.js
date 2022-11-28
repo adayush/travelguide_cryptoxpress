@@ -7,22 +7,22 @@ export default function Brand() {
       <h2>We Care.</h2>
       <div>
         <Card className={styles.card}>
-          <Image src="/images/brand/conversation.svg" preview={false} />
+          <Image src="/images/brand/conversation.svg" alt='conversation' preview={false} />
           <p>Customer Happiness</p>
-          <span>We're delighted to help you. Anything you need, we're available.</span>
+          <span>We&apos;re delighted to help you. Anything you need, we&apos;re available.</span>
         </Card>
         <Card className={styles.card}>
-          <Image src="/images/brand/payment.svg" preview={false} />
+          <Image src="/images/brand/payment.svg" alt='payment' preview={false} />
           <p>Secure Payments</p>
           <span>We take your security seriously. Use our data-protected, user-friendly payment gateway to process payments safely.</span>
         </Card>
         <Card className={styles.card}>
-          <Image src="/images/brand/sheild.svg" preview={false} />
+          <Image src="/images/brand/sheild.svg" alt='sheild' preview={false} />
           <p>No Hidden Costs</p>
           <span>What you see is what you get.</span>
         </Card>
         <Card className={styles.card}>
-          <Image src="/images/brand/reliability.svg" preview={false} />
+          <Image src="/images/brand/reliability.svg" alt='reliability' preview={false} />
           <p>Fast Confirmations</p>
           <span>Be confident that your trip is set. Get ready for the experience.</span>
         </Card>
@@ -32,7 +32,7 @@ export default function Brand() {
       <Card className={styles.card}>
         <div className={styles.row}>
           <p>Subscribe to Mailer</p>
-          <Image src="/images/brand/mailer.svg" width={60} preview={false} />
+          <Image src="/images/brand/mailer.svg" alt='mailer' width={60} preview={false} />
         </div>
         <p>Stay updated with all the excitement that Andamans has to offer</p>
         <Space>
@@ -43,14 +43,14 @@ export default function Brand() {
       <Card className={styles.card}>
         <div className={styles.row}>
           <p>Collaborate with us for Blog/Content</p>
-          <Image src="/images/brand/blog.webp" width={60} preview={false} />
+          <Image src="/images/brand/blog.webp" alt='blog' width={60} preview={false} />
         </div>
         <p>If you have a flair for writing, write for us and get featured.</p>
       </Card>
       <Card className={styles.card}>
         <div className={styles.row}>
           <p>Be your own tour guide.</p>
-          <Image src="/images/brand/tour.svg" width={60} preview={false} />
+          <Image src="/images/brand/tour.svg" alt='tour' width={60} preview={false} />
         </div>
         <p>Get lost or never. You decide. Download our handy tour guides to plan your trip.</p>
       </Card>
@@ -59,17 +59,17 @@ export default function Brand() {
       <h2>Why Choose Us?</h2>
       <div>
         <Card className={styles.card}>
-          <Image src="/images/brand/handshake.svg" preview={false} />
+          <Image src="/images/brand/handshake.svg" alt='handshake' preview={false} />
           <p>Local Expertise</p>
           <span>By the locals, for the world</span>
         </Card>
         <Card className={styles.card}>
-          <Image src="/images/brand/hotel-1.svg" preview={false} />
+          <Image src="/images/brand/hotel-1.svg" alt='hotel' preview={false} />
           <p>The Choicest Experiences</p>
           <span>Only the best experiences make it to G2A</span>
         </Card>
         <Card className={styles.card}>
-          <Image src="/images/brand/sunset.svg" preview={false} />
+          <Image src="/images/brand/sunset.svg" alt='sunset' preview={false} />
           <p>Tailor-make your own holiday</p>
           <span>Build your holiday your way</span>
         </Card>
@@ -77,7 +77,7 @@ export default function Brand() {
     </div>
     <div className={styles.reviews}>
       <h2>They ❤️ Us</h2>
-      <Image src="/images/brand/quote-1.svg" width={80} preview={false} />
+      <Image src="/images/brand/quote-1.svg" alt='quote' width={80} preview={false} />
       <Carousel autoplay>
         <div>
           <p>It was a perfect location for family fun, the erstwhile Ross Island has all the history of a mini Paris, albeit at the cost of all Indian labour and is an example of the British opulence over poverty stricken India. Perfect for taking pics and the picturesque light house was delightful. We took the buggy as we were a large family with kids. There are deer and peacocks too.</p>
