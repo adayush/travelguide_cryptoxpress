@@ -1,0 +1,309 @@
+[
+    {
+        "id": "havelock",
+        "name": "Havelock Island",
+        "common": "Swaraj Dweep",
+        "bgimage": "background.jpg",
+        "data": [
+            {
+                "heading": "About Havelock Island",
+                "type": "about",
+                "text": [
+                    "Havelock in short, is paradise. It's an island tucked away from the crowds in the warm waters of the Andaman Ocean. The island is covered mostly in dense jungle and fringed with white sandy beaches shaded by tall green trees. Diving in the crystal clear waters with shades of turquoise blue an experience that all must explore. Tourists simply love its picture perfect beaches, laid back vibe and amazing underwater world.",
+                    "As far as islands in the Andamans go, Havelock is definitely the most tourism friendly and consequently the most visited. There are all sorts of accommodation options from bamboo cottages to luxury villas, great multinational cuisine restaurants, souvenir shops, ATMs and now even (slow but accessible) Internet cafés. You'll find almost everything you need here, but at a slower pace. And even though it is one of the most visited islands in the Andamans it sees only a fraction of the visitors that crowd other paradise destinations around the globe."
+                ],
+                "list": []
+            },
+            {
+                "heading": "How long to stay in Havelock?",
+                "type": "stayperiod",
+                "text": [
+                    "As a part of most travel itineraries, the place is known for the magnificent Radhanagar Beach, Elephanta Beach, Kalapathar beach, and water sports like Scuba Diving, Snorkeling, Kayaking. Hence, we recommend a minimum of a two-night stay at Swaraj Dweep(Havelock Island) and a comfortable three nights too if time permits."
+                ],
+                "list": []
+            },
+            {
+                "heading": "When to visit Swaraj Dweep? (Havelock)",
+                "type": "visitseason",
+                "text": [
+                    "The tourist season falls between November and mid-May and the peak season is between December- March. The monsoon season is between June and September. One should always expect light rains even during other seasons since it's a tropical island. Feb and March are considered the best for water sports due to low tides and better visibility."
+                ],
+                "list": []
+            },
+            {
+                "heading": "How to Reach Havelock?",
+                "type": "reach",
+                "text": [
+                    "Havelock Island can be reached by Sea and by Air, however, the easiest way to travel to Havelock would be by the Sea. Private and Government ferries operate from neighboring islands (Port Blair and Neil Island). However, we recommend private ferries, as the booking is hassle-free and doesn't require waiting in line, the same can be booked through us for an easy and worry-free experience.",
+                    "A few private ferry companies that sail to havelock Island been listed below:"
+                ],
+                "list": [
+                    {
+                        "item": "Makruzz Ferry",
+                        "link": "https://www.go2andaman.com/book-ferry/makruzz/"
+                    },
+                    {
+                        "item": "ITT Majestic Ferry",
+                        "link": "https://www.go2andaman.com/book-ferry/itt-majestic-ferry/"
+                    },
+                    {
+                        "item": "Sealink Ferry",
+                        "link": "https://www.go2andaman.com/book-ferry/sealink-ferry/"
+                    },
+                    {
+                        "item": "Green Ocean Ferry",
+                        "link": "https://www.go2andaman.com/book-ferry/green-ocean-ferry/"
+                    },
+                    {
+                        "item": "Aashi Ferry",
+                        "link": "https://www.go2andaman.com/book-ferry/aashi-ferry/"
+                    }
+                ],
+                "posttext": [
+                    "Please click here for ferry timing and booking. https://www.go2andaman.com/online-ferry-booking/"
+                ]
+            },
+            {
+                "heading": "Directorate of Shipping Services",
+                "type": "shipping",
+                "text": [
+                    "Government-run boats are the lifeline for locals of Andaman. They connect almost all islands in the Andaman Islands (including the Nicobar group of islands). Bookings can only be made from the counters mentioned below."
+                ],
+                "list": [
+                    {
+                        "item": "Port Blair",
+                        "text": "Phoenix Bay Jetty & Common Service Centers located around the town"
+                    },
+                    {
+                        "item": "Havelock Island",
+                        "text": "Havelock Jetty"
+                    },
+                    {
+                        "item": "Neil Island",
+                        "text": "Neil Jetty"
+                    }
+                ]
+            },
+            {
+                "heading": "Getting Around in Havelock",
+                "type": "localtransport",
+                "text": [
+                    "Local transport in Swaraj Dweep (Havelock Island) is fairly simple. Roads are well set and straight. It is almost impossible to get lost as everything is just by the road and the locals are all very helpful. It also helps that Havelock's beaches and villages are categorized with the help of numbers.",
+                    "These are a few options we recommend:"
+                ],
+                "list": [
+                    {
+                        "item": "Tourist Taxis",
+                        "description": "Tourist taxis can be rented from Havelock jetty, there will be drivers waiting at the jetty, please be aware that they might be overpriced and you might have to bargain. If you are part of a package tour, it will be included in the package."
+                    },
+                    {
+                        "item": "Bike Rentals",
+                        "description": "The easiest local transport in Havelock Island is by renting a scooter. You can hire them on a daily basis at approximately INR 500 per day. Fuel Stations shut by 5 pm, please make sure you have enough fuel. Avoid during monsoons as roads can get slippery."
+                    },
+                    {
+                        "item": "Auto Rickshaws",
+                        "description": "Auto-rickshaws are also available and cost around INR 50 to 200 for short rides & 700-1000 for a trip to Radhanagar Beach."
+                    },
+                    {
+                        "item": "Public Transport",
+                        "description": "Budget travelers can opt for shared jeeps and public buses for the commute within Swaraj Dweep(Havelock Island)."
+                    }
+                ]
+            },
+            {
+                "heading": "Top things to do in Swaraj Dweep (Havelock)",
+                "type": "todo",
+                "text": [
+                    "Havelock is known for its pristine beaches, crystal clear waters, and a variety of water sports that it has to offer. All thanks to the variety of activities the island has to offer, Havelock Island is a fun magnet that attracts anybody paying a visit to the Andaman Islands. Here are a few more things to do on Havelock Island."
+                ],
+                "list": [
+                    {
+                        "item": "Kayaking",
+                        "image": "kayaking.jpg",
+                        "description": "Kayak your way through the beautiful mangrove forests, one can also club kayaking with snorkeling or take a night kayaking tour. One doesn't have to be a swimming expert, any beginner can enjoy this fun activity. We recommend Kayaking with a certified instructor, Tanaz for a fun-filled experience. This activity costs around INR 3000 onwards."
+                    },
+                    {
+                        "item": "Candlelight Dinner",
+                        "image": "candlelight.jpg",
+                        "description": "Treat your loved one to a romantic candlelight dinner under the stars. Havelock Island beach resort, wild orchid resort, Munjoh resort offer a magical candlelight dinner experience."
+                    },
+                    {
+                        "item": "Scuba Diving",
+                        "image": "scuba.jpg",
+                        "description": "Havelock Island is very well known for its scuba diving experience with the best infrastructure. Andamans is one of the best spots for Scuba Diving. For an amazing experience, do book with us."
+                    },
+                    {
+                        "item": "Shopping",
+                        "image": "shopping.jpg",
+                        "description": "Shop some lovely souvenirs for your loved ones back home at Seven Heaven, this lifestyle store is a shoppers paradise. Handpicked, designer clothing and jewelry make for perfect gifts."
+                    },
+                    {
+                        "item": "Elephant Beach",
+                        "image": "beach.jpg",
+                        "description": "This place is a shallow water haven for snorkelers. All thanks to an impressive number of Scuba divers who have educated the locals on the importance of reef conservation, the reefs here are increasing, unlike most islands where reefs are drastically decreasing.<br>One can reach here either by a speedboat ride or by a short 1.8 km trek through the beautiful mangrove forest to reach Elephanta beach. This trek is guided by a professional guide and usually takes about 30-45 minutes to complete. Water sports are also conducted at this beach."
+                    },
+                    {
+                        "item": "Game Fishing",
+                        "image": "fishing.jpg",
+                        "description": "Set off on an exclusive fishing adventure in the great Andaman Sea. The duration of this activity is around 2-4 hours. Cruise along the sea and learn how to fish, right from scratch."
+                    }
+                ]
+            },
+            {
+                "heading": "Hotels & Resorts in Swaraj Dweep (Havelock)",
+                "type": "hotels",
+                "text": [
+                    "The tourist infrastructure in Havelock is the best among all the islands in the Andamans. You can find beach resorts at budget rates or more luxurious cottages at a premium cost.",
+                    "Prices range from INR 1000 a night for a budget stay, INR 3000 for mid-budget stays, and INR 25,000 for luxurious stays. However, fares vary between peak and low depending on the tourist seasons. During peak season, prices can shoot up and the best places fill up fast. It is advisable to book ahead.",
+                    "Camping is not permitted on public land or beaches.",
+                    "• Low Budget: INR  500- 3000",
+                    "• Mid-Range: INR 4000- 8000",
+                    "• Premium Stays: INR 15000- 25000"
+                ],
+                "list": [
+                    {
+                        "item": "Taj Exotica",
+                        "description": "Located on the Radha Nagar Beach in Havelock, this place needs no introduction. Luxurious rooms with beautiful views and amazing restaurants on the property are the best way to pamper yourself."
+                    },
+                    {
+                        "item": "Barefoot at Radhanagar",
+                        "description": "Located right next to Radhanagar beach, Barefoot offers a luxurious jungle stay. They can also arrange all the activities for families and friends. This luxurious stay is priced around INR 10000-10500."
+                    },
+                    {
+                        "item": "Seashell Resort",
+                        "description": "This beach-facing paradise is designed to keep a high-end luxury traveler in mind. This resort offers a spa, infinity pool, and candlelight dinners under the stars. This luxurious stay is priced around INR 9000"
+                    },
+                    {
+                        "item": "Jalakara",
+                        "description": "This beautiful boutique hotel amidst the rainforests of the Havelock island comes with a wide range of tastefully designed rooms and a beautiful villa with a pool. Making it one of the best places to stay in Havelock."
+                    },
+                    {
+                        "item": "Havelock Island Beach Resort",
+                        "description": "Located a stone's throw away from the beach, Havelock island beach resort is a beautiful place to unwind and relax. Accommodation falls in Mid-range budget pricing from INR 3000-5000."
+                    },
+                    {
+                        "item": "The Flying Elephant",
+                        "description": "Inspired by Indian culture and decor, this stay is inspired by Yoga and one can expect well-ventilated bamboo cottages, an open-air shower area, and positive vibes. This yoga stay is priced around INR 3000-3500."
+                    }
+                ],
+                "posttext": [
+                    "Here is a list of other stays which we also recommend:",
+                    "• Munjoh Ocean Resort",
+                    "• TSG Blue Resort",
+                    "• Silver Sand Beach Resort",
+                    "• Dolphin Resort",
+                    "• Wild Orchid Beach Resort",
+                    "• Symphony Palms Beach Resort",
+                    "• Aparupa Sands Marina"
+                ]
+            },
+            {
+                "heading": "Eat/ Dine/ Night Life in Havelock",
+                "type": "nightlife",
+                "text": [
+                    "Havelock provides various cuisines for the comfort of its guests from India and all over the world. From Indian cuisines with various dietary restrictions to scrumptious continental cuisine  - nothing is amiss. And lest we forget, the seafood options are plenty and everywhere! Grilled Fish is a must-have, especially at some local eateries in the market.",
+                    "For cheaper meals, some hotels will let you buy bread, which you can toast in their kitchens. You can even try simple vegetarian and non-vegetarian thalis - cheap meals of plain rice, vegetables, dal(lentil soup), and meat at INR 150 - INR 200 per plate."
+                ],
+                "list": []
+            },
+            {
+                "heading": "Important info about Havelock",
+                "type": "importantinfo",
+                "text": [],
+                "list": [
+                    {
+                        "item": "Currency",
+                        "description": "Like the rest of the island in Andaman, the Indian Rupee is the currency used. Havelock has two ATM's. We recommend you carry cash to the islands."
+                    },
+                    {
+                        "item": "Communication and Internet",
+                        "description": "Phones on the BSNL network work best, but Airtel and Vodafone also have towers here. Many cafes offer WiFi facilities, but they can be slow and expensive."
+                    },
+                    {
+                        "item": "Supermarkets/Bazars",
+                        "description": "Hi-land Supermarket (Kunju's supermarket) is the largest one-stop shop at the market in Village No. 3. Basic supplies can be bought in the bazaar stores - do not forget your tube of insect and mosquito repellent. One can even buy a hammock in the bazaar, beach accessories, and artificial jewelry among others can be found in souvenir shops."
+                    },
+                    {
+                        "item": "Healthcare",
+                        "description": "Government-run Primary Healthcare Center (PHC) is located in village No. 3, which has basic treatment facilities and a pharmacy. Special treatment and emergency cases are transferred to Port Blair Hospital."
+                    },
+                    {
+                        "item": "Safety",
+                        "description": "Havelock is arguably one of the safest places in the whole of India. The Andaman and Nicobar Police(ANP) force is an efficient one maintaining a favorable law and order. Bribing an officer on duty is out of the question.<br>Please avoid swimming where the beaches are rocky.<br>Please don't take a flight the same day you dive.<br>Go2andaman strongly discourages the use of narcotics and drugs.<br>ANP Havelock Number: 03192-282405<br>Fire Station Havelock: 03192-282400<br>Coastal Security Helpline: 1093"
+                    },
+                    {
+                        "item": "Language",
+                        "description": "Like elsewhere in India, knowing Hindi and English will get you by in Havelock. Some of the other languages spoken here are Bengali, Telugu, and Tamil."
+                    },
+                    {
+                        "item": "Port Facilities",
+                        "description": "All entry is to the island is reserved and made only through the DSS inter Island Port."
+                    },
+                    {
+                        "item": "Helicopter Service",
+                        "description": "Government-run Helicopter is available for emergencies and inter-island transportation. The preferences are for Medical emergencies followed by other emergencies, VIP transportation, Local islanders transportation, and the least preference for general tourists."
+                    }
+                ]
+            },
+            {
+                "heading": "Cost in Havelock (Swaraj Dweep)",
+                "type": "cost",
+                "text": [
+                    "There are 4 main costs that one incurs in Havelock:"
+                ],
+                "list": [
+                    {
+                        "item": "Accommodation",
+                        "description": "• Basic accommodation costs around Rs.1000 per night.<br>• Mid Range accommodation costs around Rs.3000<br>• Premium accommodation can cost anywhere between Rs.15000-30000."
+                    },
+                    {
+                        "item": "Transfers",
+                        "description": "Car transfers for a six-seater can cost up to INR 400 for a drop from the jetty to Beach No. 5 and auto-rickshaws charge about INR 100 for the same. You can also scooter at about 500 per day. Bicycle rentals are cheapest at INR 100 to 150 per day."
+                    },
+                    {
+                        "item": "Activities",
+                        "description": "A Discover Scuba Diving (DSD) costs about INR 3,500 and a kayak trip about 2,500. If you are the adventurous kind, we suggest keeping aside a cost of at least INR 5,000 per person for activities in Havelock."
+                    },
+                    {
+                        "item": "Food",
+                        "description": "Food in Havelock, though more expensive than Port Blair is still very affordable. A basic meal for 2 would cost around INR 400 and at a luxury resort about INR 1,400. A candlelight dinner for two costs about INR 5,000.<br>Thus a day in Havelock could cost anywhere between INR 2,500 to INR 10,000 per person."
+                    }
+                ],
+                "posttext": [
+                    "A suggested Itinerary would be:",
+                    "Day 1: Take a morning ferry to Havelock. Visit Radhanagar Beach in the evening",
+                    "Day 2: Try Scuba Diving and Kayaking",
+                    "Day 3: Trek to Elephant Beach and try snorkeling",
+                    "Day 4: Return back to Port Blair or go to Neil."
+                ]
+            },
+            {
+                "heading": "FAQs about Havelock",
+                "type": "faq",
+                "text": [],
+                "list": [
+                    {
+                        "item": "Where is Havelock island situated?",
+                        "description": "Havelock Island AKA Swaraj Dweep is a part of the Andaman and Nicobar Union territory of India. Officially, it is part of South Andaman administrative district. It is located towards the East and about 70 km away from Port Blair."
+                    },
+                    {
+                        "item": "How do you get to Havelock island?",
+                        "description": "The only way to get to Havelock (for tourists) is by sea. You can travel by private AC ferries (Makruzz, Green ocean, etc) which take about 1.5 - 2 hours OR by Government ferries which can take up to 3 hours."
+                    },
+                    {
+                        "item": "How many days do you need for Havelock?",
+                        "description": "We suggest you keep a minimum of 3 days for Havelock. This is ideal to enjoy Radhanagar beach, Scuba dive, explore cafes and try offbeat activities like Night kayaking and trekking."
+                    },
+                    {
+                        "item": "How much time does it take to travel from Port Blair to Havelock?",
+                        "description": "1.5 hours"
+                    },
+                    {
+                        "item": "Can I Travel To Diglipur from Neil/Havelock?",
+                        "description": "Diglipur only be accessed through Port Blair. There's no provision to access Diglipur from Neil or Havelock. However, an alternate travel entry point can be drawn from Neil and Havelock via Rangat. Some private boat rides are available from Neil and Havelock to Rangat and you can enter Diglipur from there. However, this route is quite tricky and not supported by tourism so you are at the mercy of your service providers. So, be careful of you attempting such a thing.<br>There you go the most bustling region of Andaman - Diglipur which will soon be a worthwhile travel destination in Andaman as plans of a second Andaman airport in Diglipur finalizes. So, think of all the exciting experiences you can try in this offbeat Andaman tourist destination."
+                    }
+                ]
+            }
+        ]
+    }
+]

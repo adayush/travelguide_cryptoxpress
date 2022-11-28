@@ -1,0 +1,81 @@
+.brand {
+    background-color: white;
+}
+.brand > div {
+    padding: 2rem 5rem;
+}
+
+.brand h2 {
+    text-align: center;
+    font-size: 1.75rem;
+}
+
+.card {
+    border: none;
+}
+.card > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.care .card p {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.care img {
+    max-width: 70px;
+}
+.care > div {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 2rem;
+    text-align: center;
+}
+
+.actions {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem;
+}
+.actions .card {
+    border-radius: 2px;
+    box-shadow: 0 0 15px 0 rgb(0 0 0 / 15%);
+}
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.why {
+    text-align: center;
+}
+.why > div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem;
+}
+.why .card > div {
+    height: 100%;
+}
+.why .card p {
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+.why img {
+    max-width: 100px;
+}
+
+.reviews {
+    text-align: center;
+}
+.reviews p {
+    font-size: 1rem;
+}
+.reviews p:last-child {
+    text-align: right;
+}
