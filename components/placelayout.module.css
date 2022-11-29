@@ -50,6 +50,15 @@
     padding: 0 3rem 3rem;
 }
 
+@media only screen and (max-width: 800px) {
+    .content {
+        display: block;
+    }
+    .content > div:last-child {
+        display: none;
+    }
+}
+
 .card {
     border: none;
     border-radius: 2px;

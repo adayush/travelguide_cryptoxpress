@@ -5,6 +5,12 @@
     padding: 2rem 5rem;
 }
 
+@media only screen and (max-width: 800px) {
+    .brand > div {
+        padding: 2rem 1rem;
+    }
+}
+
 .brand h2 {
     text-align: center;
     font-size: 1.75rem;
@@ -28,15 +34,18 @@
 }
 .care > div {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     column-gap: 2rem;
     text-align: center;
+    justify-content: center;
 }
 
 .actions {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(250px, 0.5fr));
     column-gap: 2rem;
+    row-gap: 2rem;
+    justify-content: center;
 }
 .actions .card {
     border-radius: 2px;
@@ -56,8 +65,9 @@
 }
 .why > div {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
     column-gap: 2rem;
+    justify-content: center;
 }
 .why .card > div {
     height: 100%;
