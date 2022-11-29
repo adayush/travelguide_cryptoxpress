@@ -1,5 +1,6 @@
 import styles from './placelayout.module.css'
-import { Image, Card, Collapse } from 'antd'
+import { Card, Collapse } from 'antd'
+import Image from 'next/image'
 
 const { Panel } = Collapse
 
@@ -29,9 +30,10 @@ export function Datacontent({ data, id, images }) {
               </p>
               {l.image &&
                 <Image
-                  src={images[l.image]}
+                  src={'/'+images[l.image]}
+                  width={300}
+                  height={400}
                   alt={l.image}
-                  preview={false}
                 />
               }
               {l.description && <p>{l.description}</p>}
@@ -40,7 +42,7 @@ export function Datacontent({ data, id, images }) {
         }
       {data.posttext && data.posttext.map((t, i) => <p key={i}>{t}</p>)}
     </Card>
-    <Image src='divider.png' alt='divider' height={10} preview={false} />
+    <Image src='/divider.png' alt='divider' height={10} width={500} preview={false} />
   </div>
 }
 
@@ -49,8 +51,8 @@ export default function Placelayout({ placeData, images }) {
     <section className={styles.cover}>
       <Image
         height={400}
-        src={images[placeData.bgimage]}
-        preview={false}
+        width={1200}
+        src={'/'+images[placeData.bgimage]}
         alt={placeData.bgimage}
       />
       <div className={styles.overlay}>
