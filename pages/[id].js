@@ -1,4 +1,4 @@
-import { getAllPlacesIds, getPlaceData } from '../lib/places';
+import { getAllPlacesIds, getPlaceData, getImagesPaths } from '../lib/places';
 import Layout from '../components/layout';
 import Placelayout from '../components/placelayout';
 
@@ -20,10 +20,12 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   // Fetch necessary data for the blog post using params.id
   const placeData = getPlaceData(params.id)
-  
+  const images = getImagesPaths(params.id)
+
   return {
     props: {
-      placeData
+      placeData,
+      images
     }
   }
 }

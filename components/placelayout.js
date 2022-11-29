@@ -3,7 +3,7 @@ import { Image, Card, Collapse } from 'antd'
 
 const { Panel } = Collapse
 
-export function Datacontent({ data, id }) {
+export function Datacontent({ data, id, images }) {
   return <div className={styles.datacontent} id={data.type}>
     <h2>{data.heading}</h2>
     <Card className={styles.card} bodyStyle={{padding: "1rem"}}>
@@ -29,7 +29,7 @@ export function Datacontent({ data, id }) {
               </p>
               {l.image &&
                 <Image
-                  src={`images/${id}/${l.image}`}
+                  src={images[l.image]}
                   alt={l.image}
                   preview={false}
                 />
@@ -44,12 +44,12 @@ export function Datacontent({ data, id }) {
   </div>
 }
 
-export default function Placelayout({ placeData }) {
+export default function Placelayout({ placeData, images }) {
   return <div className={styles.main}>
     <section className={styles.cover}>
       <Image
         height={400}
-        src={`images/${placeData.id}/${placeData.bgimage}`}
+        src={images[placeData.bgimage]}
         preview={false}
         alt={placeData.bgimage}
       />
@@ -74,7 +74,7 @@ export default function Placelayout({ placeData }) {
               </li>)}
             </ul>
           </Card>
-          {placeData.data.map(item => <Datacontent key={item.type} data={item} id={placeData.id} />)}
+          {placeData.data.map(item => <Datacontent key={item.type} data={item} id={placeData.id} images={images} />)}
         </div>
       </div>
       <div className={styles.sidecard}>
