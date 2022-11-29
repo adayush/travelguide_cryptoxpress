@@ -3,6 +3,7 @@ import { Divider, Image } from 'antd'
 
 export default function Footer() {
   return <footer className={`container ${styles.footer}`}>
+    <div className="mx-width container">
       <div className={styles.grid}>
         <div>
           <Image src="/logo.svg" alt="logo" width={150} preview={false} />
@@ -38,5 +39,6 @@ export default function Footer() {
       <div>
         <p>WEBPORT MEDIA PVT LTD | CIN No: U63040AN2015PTC000278</p>
       </div>
+    </div>
   </footer>
 }

@@ -5,6 +5,7 @@
 }
 .cover img, .datacontent img {
     object-fit: cover;
+    width: 100%;
 }
 .overlay {
     width: 100%;
@@ -70,7 +71,6 @@
     font-size: 1.75rem;
 }
 .datacontent img {
-    width: 100%;
     border-radius: 3px;
 }
 

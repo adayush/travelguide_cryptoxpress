@@ -21,10 +21,16 @@ a {
 
 header {
   max-height: 5rem;
+  box-shadow: 0px 10px 12px 0px rgba(0,0,0,0.10);
 }
 
 h1 {
   font-family: TrashHand;
+}
+
+.mx-width {
+  max-width: 1400px;
+  margin: auto;
 }
 
 .container {

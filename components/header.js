@@ -31,7 +31,7 @@ export default function Header() {
         />
       </div>
     </div>
-    <div className={styles.header + ' container'}>
+    <div className={styles.header + ' mx-width container'}>
       <div>
         <Image
           src={logo}

@@ -64,7 +64,7 @@ export default function Placelayout({ placeData, images }) {
       </div>
     </section>
     <div className={styles.gap}></div>
-    <div className={styles.content}>
+    <div className={`mx-width ${styles.content}`}>
       <div>
         <div>
           <h2>Table of content</h2>

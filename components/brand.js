@@ -2,7 +2,7 @@ import styles from './brand.module.css'
 import { Button, Card, Carousel, Image, Input, Space } from 'antd'
 
 export default function Brand() {
-  return <div className={`container ${styles.brand}`}>
+  return <div className={`container mx-width ${styles.brand}`}>
     <div className={styles.care}>
       <h2>We Care.</h2>
       <div>
