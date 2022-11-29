@@ -50,6 +50,7 @@ export default function Placelayout({ placeData, images }) {
   return <div className={styles.main}>
     <section className={styles.cover}>
       <Image
+        priority
         height={400}
         width={1200}
         src={'/'+images[placeData.bgimage]}
