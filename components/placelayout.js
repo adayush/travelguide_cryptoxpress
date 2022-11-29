@@ -29,7 +29,7 @@ export function Datacontent({ data, id }) {
               </p>
               {l.image &&
                 <Image
-                  src={`/images/${id}/${l.image}`}
+                  src={`images/${id}/${l.image}`}
                   alt={l.image}
                   preview={false}
                 />
@@ -40,7 +40,7 @@ export function Datacontent({ data, id }) {
         }
       {data.posttext && data.posttext.map((t, i) => <p key={i}>{t}</p>)}
     </Card>
-    <Image src='/divider.png' alt='divider' height={10} preview={false} />
+    <Image src='divider.png' alt='divider' height={10} preview={false} />
   </div>
 }
 
@@ -49,7 +49,7 @@ export default function Placelayout({ placeData }) {
     <section className={styles.cover}>
       <Image
         height={400}
-        src={`/images/${placeData.id}/${placeData.bgimage}`}
+        src={`images/${placeData.id}/${placeData.bgimage}`}
         preview={false}
         alt={placeData.bgimage}
       />
