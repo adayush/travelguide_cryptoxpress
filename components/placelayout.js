@@ -42,7 +42,7 @@ export function Datacontent({ data, id, images }) {
         }
       {data.posttext && data.posttext.map((t, i) => <p key={i}>{t}</p>)}
     </Card>
-    <Image src='/divider.png' alt='divider' height={10} width={500} preview={false} />
+    <Image src='/divider.png' alt='divider' height={10} width={500} />
   </div>
 }
 
